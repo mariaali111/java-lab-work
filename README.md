@@ -1,4 +1,4 @@
-# Java Lab Work – B.Sc. Computer Science (Year 2)
+# Java Lab Work – B.Sc. Computer Science (IIIrd Sem)
 
 This repository contains my **weekly Java lab assignments** from my third semester of B.Sc. (Hons) Computer Applications.  
 It is organized by week, covering a wide range of programming concepts in Java, from basics to object-oriented programming.
@@ -9,9 +9,9 @@ It is organized by week, covering a wide range of programming concepts in Java, 
 Each folder represents one week’s lab exercises:
 
 - **Week 3 – Basics**  
-- **Week 4 – If statement/looping**  
-- **Week 5 – Arrays**  
-- **Week 6 – If statement/looping + Arrays**    
+- **Week 4 – Control Statements & Loops**  
+- **Week 5 – Arrays, Loops & Number Manipulation**  
+- **Week 6 – Arrays, Searching & Number Problems**    
 - *(and more to come…)*
 
 ---
