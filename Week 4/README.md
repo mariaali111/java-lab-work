@@ -1,7 +1,7 @@
 # Week 4 - Control Statements & Loops
 
 This week's lab focuses on **decision-making** and **iteration** in Java.
-The problems cover 'if-else', 'switch-case', and loop constructs ('for', 'while').
+The problems cover `if-else`, `switch-case`, and loop constructs (`for`, `while`).
 
 ## Topics Covered
 - Conditional statements (`if`, `if-else`, nested conditions)  
