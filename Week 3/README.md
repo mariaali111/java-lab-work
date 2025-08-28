@@ -20,7 +20,7 @@ This week’s lab introduces basic topics such as arithmetic operations, input/o
 - **Problem04.java** → Program to find the average of three numbers
 - **Problem05.java** → Program to compute the distance between two points 
 - **Problem06.java** → Program to swap two numbers using temporary variable
-- **Problem07.java** → Program to find calculate the area of rectangle
-- **Problem08.java** → Program to the temperature from celcius to fahrenheit  
+- **Problem07.java** → Program to calculate the area of rectangle
+- **Problem08.java** → Program to find the temperature from celcius to fahrenheit  
 - **Problem09.java** → Program to compute the remainder and quotient of two integers
 - **Problem10.java** → Program to calculate the circumference of a circle
