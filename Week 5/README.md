@@ -19,10 +19,15 @@ We also practiced converting between number systems and working with digit-based
 - **Problem01.java** → Insert `10, 20, 30, ...` in an array and display them  
 - **Problem02.java** → Calculate the sum of all array elements  
 - **Problem03.java** → Print a right-aligned number triangle pattern
+
     1
+  
    12
+  
   123
+  
  1234
+ 
 12345
 - **Problem04.java** → Calculate the sum of the series: `1 + 1/2 + 1/3 + ... + 1/n`  
 - **Problem05.java** → Compute the sum of the digits of an integer  
@@ -32,10 +37,15 @@ We also practiced converting between number systems and working with digit-based
 - **Problem09.java** → Check if a number is a palindrome or not  
 - **Problem10.java** → Convert a decimal number to hexadecimal and vice versa  
 - **Problem11.java** → Print the following star pattern:
+  
   *
+  
  **
+ 
 ***
+
  **
+ 
   *
 
 
