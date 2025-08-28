@@ -1,4 +1,4 @@
-# Java Lab Work – B.Sc. Computer Science (IIIrd Sem)
+# Java Lab Work – B.Sc. (Hons) Computer Applications (IIIrd Sem)
 
 This repository contains my **weekly Java lab assignments** from my third semester of B.Sc. (Hons) Computer Applications.  
 It is organized by week, covering a wide range of programming concepts in Java, from basics to object-oriented programming.
