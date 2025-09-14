@@ -26,7 +26,7 @@ Each folder represents one week’s lab exercises:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Java-Lab-Work.git
-2. Open the folder in NetBeans (or any Java IDE).
+2. Open the folder in IntelliJ (or any Java IDE).
 3. Compile and run the .java file of the week you want.
 
 ## Notes
