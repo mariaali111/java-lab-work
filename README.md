@@ -11,7 +11,8 @@ Each folder represents one week’s lab exercises:
 - **Week 3 – Basics**  
 - **Week 4 – Control Statements & Loops**  
 - **Week 5 – Arrays, Loops & Number Manipulation**  
-- **Week 6 – Arrays, Searching & Number Problems**    
+- **Week 6 – Arrays, Searching & Number Problems**
+- **Week 7 - Arrays, Strings & Recursion**   
 - *(and more to come…)*
 
 ---
