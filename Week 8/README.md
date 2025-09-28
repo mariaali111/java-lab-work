@@ -1,4 +1,4 @@
-# Week 8 – Problems
+# Week 8 – Classes & Objects
 
 This week’s lab introduces problems based on Objects, Classes, and Constructors in Java.
 
@@ -22,8 +22,8 @@ This week’s lab introduces problems based on Objects, Classes, and Constructor
 - **Problem04.java** → Program to implement default, one-argument, and two-argument constructors in FRUIT class.
 - **Problem05.java** → Program to demonstrate constructor chaining in FRUIT class using this().
 - **Problem06.java** → Program to create a CAR class with data members model, color, and price.
-- Includes setDetails(), getDetails(), and display() methods
-- Implements default constructor, one-argument constructor, and two-argument constructor
-- Demonstrates constructor chaining
-- Creates three objects (default, one-argument, two-argument) and sets price using setDetails()
-- Calls display() for each object
+ - Includes setDetails(), getDetails(), and display() methods
+ - Implements default constructor, one-argument constructor, and two-argument constructor
+ - Demonstrates constructor chaining
+ - Creates three objects (default, one-argument, two-argument) and sets price using setDetails()
+ - Calls display() for each object
