@@ -12,7 +12,9 @@ Each folder represents one week’s lab exercises:
 - **Week 4 – Control Statements & Loops**  
 - **Week 5 – Arrays, Loops & Number Manipulation**  
 - **Week 6 – Arrays, Searching & Number Problems**
-- **Week 7 - Arrays, Strings & Recursion**   
+- **Week 7 - Arrays, Strings & Recursion**
+- **Week 8 - Objects & Classes**
+- **Week 9 - Inheritance, Abstract classes & Static methods**
 - *(and more to come…)*
 
 ---
