@@ -14,7 +14,9 @@ Each folder represents one week’s lab exercises:
 - **Week 6 – Arrays, Searching & Number Problems**
 - **Week 7 - Arrays, Strings & Recursion**
 - **Week 8 - Objects & Classes**
-- **Week 9 - Inheritance, Abstract classes & Static methods**
+- **Week 9 - Inheritance, Abstract Classes & Static Methods**
+- **Week10 - Nested Classes & Polymorphism**
+- **Week11 - Interfaces & Multiple Inheritance**
 - *(and more to come…)*
 
 ---
