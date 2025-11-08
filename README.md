@@ -15,9 +15,10 @@ Each folder represents one week’s lab exercises:
 - **Week 7 - Arrays, Strings & Recursion**
 - **Week 8 - Objects & Classes**
 - **Week 9 - Inheritance, Abstract Classes & Static Methods**
-- **Week10 - Nested Classes & Polymorphism**
-- **Week11 - Interfaces & Multiple Inheritance**
-- *(and more to come…)*
+- **Week 10 - Nested Classes & Polymorphism**
+- **Week 11 - Interfaces & Multiple Inheritance**
+- **Week 12 - Exception Handling**
+- **Week 13 - File Handling**
 
 ---
 
@@ -30,7 +31,7 @@ Each folder represents one week’s lab exercises:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Java-Lab-Work.git
+   git clone https://github.com/mariaali111/Java-Lab-Work.git
 2. Open the folder in IntelliJ (or any Java IDE).
 3. Compile and run the .java file of the week you want.
 
